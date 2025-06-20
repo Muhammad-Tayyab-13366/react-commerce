@@ -1,6 +1,10 @@
 import styled from "styled-components";
 
-return <Wrapper></Wrapper>;
+const SingleProduct = () => {
+  // This component will display the details of a single product
+  // It will include product images, price, warranty information, and other details   
+  return <Wrapper></Wrapper>;
+}
 
 const Wrapper = styled.section`
   .container {
